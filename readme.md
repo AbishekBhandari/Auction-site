@@ -44,8 +44,8 @@ The application includes the following models:
 ### Setup
 1. Clone the repository:
    ```sh
-   git clone <repository-url>
-   cd auction-site
+   git clone https://github.com/AbishekBhandari/Auction-site.git
+   cd Auction-site
    ```
 2. Install dependencies:
    ```sh
